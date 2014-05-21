@@ -25,7 +25,7 @@ except NameError:
 host = input('input target ip:')
 '''
 
-host = '38.103.161.147'
+host = '38.103.161.187'
 base_url = 'http://' + host + '/forum/'
 http_proxy = "http://localhost:8086"
 use_proxy = False
